@@ -95,8 +95,8 @@ public class Queuell {
    obj.enqueue(56);
   obj.enqueue(67);
   obj.dequeue();
-  obj.display();
-  
+  obj.display() ;
+  System.out.println(obj.isempty());
 
 
 
